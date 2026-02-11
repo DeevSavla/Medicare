@@ -1,8 +1,8 @@
-# 🏥 Doctor Appointment System
+# 🏥 Medicare
 
 ## Overview
 
-The Doctor Appointment System is a full-stack web application designed to streamline the healthcare appointment booking process. It provides a seamless experience for patients to find doctors, book appointments, and get instant healthcare assistance through an AI-powered chatbot. The system supports multiple user roles including patients, doctors, and administrators, each with their own specialized dashboard and functionality.
+Medicare is a full-stack web application designed to streamline the healthcare appointment booking process. It provides a seamless experience for patients to find doctors, book appointments, and get instant healthcare assistance through an AI-powered chatbot. The system supports multiple user roles including patients, doctors, and administrators, each with their own specialized dashboard and functionality.
 
 **Live Demo**: [https://doc-appoinment-system.vercel.app/](https://doc-appoinment-system.vercel.app/)
 
